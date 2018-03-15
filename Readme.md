@@ -1,4 +1,4 @@
-#Apache Spark Based SSJoin in Python
+# Apache Spark Based SSJoin in Python
 
 Two python functions for record matching and table deduplication uses the jaccard string similarty to identify the identical entities.
 
